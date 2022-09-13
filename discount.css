@@ -1,0 +1,23 @@
+dLabel {
+	display: block;
+	position: absolute;
+	bottom: 7%;
+	left: 0px;
+	background: #ee312f;
+	width: 50px;
+	height: auto;
+	z-index: 4;
+}
+dLabel p {
+	display: block;
+	position: relative;
+	color: #fff;
+	width: 100%;
+	letter-spacing: 0.2px;
+	font-size: 14px;
+	text-align: center;
+	line-height: 28px;
+	font-weight: 500;
+	margin: 0;
+	padding: 0;
+}
