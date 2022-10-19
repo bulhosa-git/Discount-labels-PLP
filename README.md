@@ -1,5 +1,3 @@
-# Discount-labels-JS-GTM-Magento-2
+# Discount labels PLP
 
-Injects a % discount label on every grid item that has a special price. It calculates the discount percentage based on item's full and discounted values. It runs the script everytime new items are added to the grid (scroll based load).
-
-It also adds a special price label to the product details page.
+Injects a % discount label on every grid item that has a discounted price. It calculates the percentage based on the item's full and discounted values. It runs the script everytime new items are added to the grid.
